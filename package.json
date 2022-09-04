@@ -1,0 +1,13 @@
+{
+  "name": "@eddiegroves/node-hello-world",
+  "description": "Hello world!",
+  "version": "1.0.0",
+  "author": "Eddie Groves <eddie@eddiegroves.com>",
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "devDependencies": {}
+}
